@@ -1,0 +1,6 @@
+print('今天发工资')
+print('还信用卡')
+print('是否有余额')
+print('可以Happy')
+print('哦NO悲剧了')
+print('啥时候开资啊')
